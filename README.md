@@ -2,7 +2,7 @@
 
 #### Biografia
 
-Cursando Desenvolvimento Full Stack Java na EBAC.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica e participo de bootcamps da DIO.
 
 ### Linguagens que estudo atualmente:
 
